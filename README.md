@@ -23,4 +23,4 @@ The privacy policy is live at:
 If you have any questions about this privacy policy, please contact us at:  
 **[gauravdane.ce@gmail.com]**
 
-*Last updated: [29.09.2025]ameame
+*Last updated: [29.09.2025]
