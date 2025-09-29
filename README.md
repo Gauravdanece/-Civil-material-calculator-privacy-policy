@@ -1,6 +1,8 @@
-# Privacy Policy
+# Civil-material-calculator-privacy-policy
 
-This repository contains the privacy policy for [Civil Material Calculator].
+## Privacy Policy
+
+This repository contains the privacy policy for Civil Material Calculator.
 
 ## 📄 Files
 
@@ -10,17 +12,23 @@ This repository contains the privacy policy for [Civil Material Calculator].
 ## 🌐 Live Website
 
 The privacy policy is live at:  
-https://gauravdanece.github.io/-Civil-material-calculator-privacy-policy/
+**https://[your-github-username].github.io/civil-material-calculator-privacy-policy/privacy.html**
 
-App Information
+## 📱 App Information
 
-- **App Name:** [Civil Material Calculator]
-- **Platform:** [Android]
-- **Version:** [1.0]
+- **App Name:** Civil Material Calculator
+- **Platform:** Android
+- **Version:** 1.0
 
 ## 📧 Contact
 
 If you have any questions about this privacy policy, please contact us at:  
 **[gauravdane.ce@gmail.com]**
 
-*Last updated: [29.09.2025]
+
+Last updated: 29.09.2025
+
+
+
+
+
