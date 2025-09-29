@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This repository contains the privacy policy for [Civil Material Calculator Name].
+This repository contains the privacy policy for [Civil Material Calculator].
 
 ## 📄 Files
 
