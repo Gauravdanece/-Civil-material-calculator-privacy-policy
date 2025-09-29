@@ -13,7 +13,7 @@ This repository contains the privacy policy for Civil Material Calculator.
 
 The privacy policy is live at:  
 
-https://gauravdanece.github.io/-Civil-material-calculator-privacy-policy/privacy.html
+https://gauravdanece.github.io/-Civil-material-calculator-privacy-policy/
 
 
 ## 📱 App Information
